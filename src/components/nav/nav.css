@@ -6,6 +6,7 @@ nav {
   z-index: 20;
   position: fixed;
   left: 50%;
+  right: 50%;
   transform: translateX(-50%);
   bottom: 2rem;
   display: flex;
@@ -50,4 +51,7 @@ nav a.active {
 
 /* For small devices */
 @media screen and (max-width: 350px) {
+  nav a {
+    font-size: 1rem;
+  }
 }
