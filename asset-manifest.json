@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.181ff1af.css",
+    "main.js": "/portfolio-website/static/js/main.be89803e.js",
+    "static/media/about.jpg": "/portfolio-website/static/media/about.a38bf4939146600e4f42.jpg",
+    "static/media/portfolio2.jpg": "/portfolio-website/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio1.jpg": "/portfolio-website/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/portfolio-website/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/profile.jpg": "/portfolio-website/static/media/profile.a2715a54c0d5f4e4709b.jpg",
+    "static/media/IvanWeiKetYap_Resume.pdf": "/portfolio-website/static/media/IvanWeiKetYap_Resume.e5e38353789cee75ebe5.pdf",
+    "index.html": "/portfolio-website/index.html",
+    "main.181ff1af.css.map": "/portfolio-website/static/css/main.181ff1af.css.map",
+    "main.be89803e.js.map": "/portfolio-website/static/js/main.be89803e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.181ff1af.css",
+    "static/js/main.be89803e.js"
+  ]
+}
