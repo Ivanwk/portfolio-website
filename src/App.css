@@ -80,7 +80,6 @@ input,
 textarea {
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
-  -webkit-text-size-adjust: 100%
 }
 
 body {

@@ -11,8 +11,8 @@ import Contact from "./components/contact/Contact";
 const App = () => {
   return (
     <>
+      <Nav />
       <main className="main">
-        <Nav />
         <Home />
         <About />
         <Experience />
