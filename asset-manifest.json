@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.ae7ab05f.css",
+    "main.css": "/portfolio-website/static/css/main.6fd54635.css",
     "main.js": "/portfolio-website/static/js/main.c19eb64b.js",
     "static/media/about.jpg": "/portfolio-website/static/media/about.a38bf4939146600e4f42.jpg",
     "static/media/portfolio2.jpg": "/portfolio-website/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
@@ -9,11 +9,11 @@
     "static/media/profile.jpg": "/portfolio-website/static/media/profile.a2715a54c0d5f4e4709b.jpg",
     "static/media/IvanWeiKetYap_Resume.pdf": "/portfolio-website/static/media/IvanWeiKetYap_Resume.e5e38353789cee75ebe5.pdf",
     "index.html": "/portfolio-website/index.html",
-    "main.ae7ab05f.css.map": "/portfolio-website/static/css/main.ae7ab05f.css.map",
+    "main.6fd54635.css.map": "/portfolio-website/static/css/main.6fd54635.css.map",
     "main.c19eb64b.js.map": "/portfolio-website/static/js/main.c19eb64b.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae7ab05f.css",
+    "static/css/main.6fd54635.css",
     "static/js/main.c19eb64b.js"
   ]
 }
