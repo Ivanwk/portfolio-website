@@ -36,9 +36,9 @@ nav a.active {
 /*=============== BREAKPOINTS ===============*/
 /* For large devices */
 @media screen and (max-width: 992px) {
-    nav a {
-        font-size: 1.25rem;
-    }
+  nav a {
+    font-size: 1.25rem;
+  }
 }
 
 /* For medium devices */
@@ -50,7 +50,4 @@ nav a.active {
 
 /* For small devices */
 @media screen and (max-width: 350px) {
-    nav a {
-        font-size: 1rem;
-    }
 }
