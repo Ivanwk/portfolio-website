@@ -14,7 +14,7 @@ const Skills = () => {
       <div className="skills__container container grid">
         <DataAnalyst />
         <Frontend />
-        <Backend />
+        {/* <Backend /> */}
       </div>
     </section>
   )

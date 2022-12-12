@@ -20,6 +20,7 @@ const Nav = () => {
         >
           <AiOutlineHome />
         </a>
+
         <a
           href="#about"
           onClick={() => setActiveNav("#about")}
@@ -27,6 +28,7 @@ const Nav = () => {
         >
           <AiOutlineUser />
         </a>
+
         <a
           href="#experience"
           onClick={() => setActiveNav("#experience")}
@@ -34,13 +36,15 @@ const Nav = () => {
         >
           <BsBriefcase />
         </a>
-        {/* <a
-        href="#portfolio"
-        onClick={() => setActiveNav("#portfolio")}
-        className={activeNav === "#portfolio" ? "active" : ""}
-      >
-        <IoImageOutline />
-      </a> */}
+
+        <a
+          href="#portfolio"
+          onClick={() => setActiveNav("#portfolio")}
+          className={activeNav === "#portfolio" ? "active" : ""}
+        >
+          <IoImageOutline />
+        </a>
+
         <a
           href="#skills"
           onClick={() => setActiveNav("#skills")}
@@ -48,6 +52,7 @@ const Nav = () => {
         >
           <BsListCheck />
         </a>
+        
         <a
           href="#contact"
           onClick={() => setActiveNav("#contact")}
@@ -57,7 +62,7 @@ const Nav = () => {
         </a>
       </nav>
     </div>
-  );
-};
+  )
+}
 
 export default Nav;
